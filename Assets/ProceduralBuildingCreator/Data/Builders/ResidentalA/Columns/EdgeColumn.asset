@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55c593bc0ebf7684ca4b216d5511554d, type: 3}
+  m_Name: EdgeColumn
+  m_EditorClassIdentifier: 
+  _bottom:
+    _items:
+    - _builder: {fileID: 11400000, guid: 42bcc43e9834fd64ca5123055af54d98, type: 2}
+      _isRequired: 1
+    - _builder: {fileID: 11400000, guid: b80f293524b4db44aaaaddaed8b84836, type: 2}
+      _isRequired: 1
+  _middle:
+    _items:
+    - _builder: {fileID: 11400000, guid: b80f293524b4db44aaaaddaed8b84836, type: 2}
+      _isRequired: 0
+  _top:
+    _items:
+    - _builder: {fileID: 11400000, guid: 24d89d7ff2754b346bdc4e80ef4b5d27, type: 2}
+      _isRequired: 1
+    - _builder: {fileID: 11400000, guid: d12b89a235f4fd14c9cb0820ffbbedee, type: 2}
+      _isRequired: 1

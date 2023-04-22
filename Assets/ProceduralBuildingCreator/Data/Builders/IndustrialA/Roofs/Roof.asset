@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88ea40e789355144eb42470e8c5accd7, type: 3}
+  m_Name: Roof
+  m_EditorClassIdentifier: 
+  _parameters:
+    _length: 10
+    _depth: 10
+    _mode: 1
+  _prefab: {fileID: 1276805743835318, guid: 367773cb7684d8c489278730dae67afc, type: 3}

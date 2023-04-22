@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c480b6ef10cabd740a9c72690f2220d3, type: 3}
+  m_Name: SideLineA
+  m_EditorClassIdentifier: 
+  _start:
+    _items:
+    - _builder: {fileID: 11400000, guid: 4408ea5308ad6f745b02be1a14738369, type: 2}
+      _isRequired: 1
+      _isHorizontalMirror: 0
+  _middle:
+    _items:
+    - _builder: {fileID: 11400000, guid: dae674d0a2538b847a899025d5d8e703, type: 2}
+      _isRequired: 1
+      _isHorizontalMirror: 0
+  _finish:
+    _items:
+    - _builder: {fileID: 11400000, guid: 4408ea5308ad6f745b02be1a14738369, type: 2}
+      _isRequired: 1
+      _isHorizontalMirror: 1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55c593bc0ebf7684ca4b216d5511554d, type: 3}
+  m_Name: FacadeA
+  m_EditorClassIdentifier: 
+  _bottom:
+    _items:
+    - _builder: {fileID: 11400000, guid: 55acdc4727b048b48ab59a81ffd94d52, type: 2}
+      _isRequired: 1
+  _middle:
+    _items:
+    - _builder: {fileID: 11400000, guid: e1e8111fb6b326e4292b2442bff8627b, type: 2}
+      _isRequired: 1
+  _top:
+    _items: []
